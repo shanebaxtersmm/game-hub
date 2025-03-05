@@ -4,5 +4,7 @@ git init
 git add .
 git commit -m "Initial commit"
 
+git log --oneline
+
 https://chakra-ui.com/
 https://chakra-ui.com/docs/get-started/frameworks/vite#install-dependencies
