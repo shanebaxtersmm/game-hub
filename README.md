@@ -17,5 +17,4 @@ http://vercel.com/
 npm i -g vercel
 npx vercel
 
-https://game-4yqixx2zv-shane-bxatres-projects.vercel.app/
-https://game-hub-hazel-eight.vercel.app/
+https://game-hub-sb.vercel.app/
