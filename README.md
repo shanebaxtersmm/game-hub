@@ -8,3 +8,11 @@ git log --oneline
 
 https://chakra-ui.com/
 https://chakra-ui.com/docs/get-started/frameworks/vite#install-dependencies
+
+- Build app
+  - npm run build
+
+http://vercel.com/
+
+npm i -g vercel
+npx vercel
